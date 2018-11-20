@@ -5,8 +5,8 @@
 <=> This is the GitHub for the code check on Nov 20.
 
 - Completion status -
--> Part 1: Testing
--> Part 2: Testing
+-> Part 1: DONE
+-> Part 2: DONE
 -> Part 3: Not started
 -> Part 4: Not started
 
