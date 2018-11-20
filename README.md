@@ -2,7 +2,7 @@
 
 --- Project 4: MIPS mini SIM ---
   By: Jonathan Wacker
-\nThis is the GitHub for the code check on Nov 20.
+<=> This is the GitHub for the code check on Nov 20.
 
 - Completion status -
 -> Part 1: Testing
