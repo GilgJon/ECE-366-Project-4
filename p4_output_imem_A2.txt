@@ -1,0 +1,21 @@
+*********** Finished Simulation ***********
+-< Simulators results data >-
+Registers: [0, -4095, 40, 1, 696324, 40, 0, 0]
+Dynamic instructions count: 196
+Current PC: 17
+PC int address = 68
+
+-< Single cycle CPU results >-
+Total number cycles done: 196
+
+-< Multi cycle CPU results >-
+Total number cycles done: 734
+-> Number of 3 cycles: 60
+-> Number of 4 cycles: 126
+-> Number of 5 cycles: 10
+
+-< Pipeline CPU results >-
+Total number cycles done: 284
+-> Number of lw added cycles: 10
+-> Number of comparison added cycles: 40
+-> Number of beq added cycles: 34
