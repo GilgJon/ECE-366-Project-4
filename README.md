@@ -7,9 +7,11 @@
 - Completion status -
 -> Part 1: DONE
 -> Part 2: DONE
--> Part 3: Not started
+-> Part 3: DONE
 -> Part 4: Not started
 
 - Contents -
 -> Simulator
--> Program A and B text files (compatiable with the simulator)
+-> Program A1/2 and B1/2 text files (compatiable with the simulator)
+-> Cache log
+-> old Part 1 and 2 content files
